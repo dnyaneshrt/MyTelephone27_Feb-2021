@@ -110,7 +110,7 @@
         android:layout_width="match_parent"
         android:layout_height="180dp"
         android:layout_margin="5dp"
-        android:hint="enter your message here.[optional]"
+        android:hint="enter your message here."
         android:textSize="24sp"
         style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
         >
